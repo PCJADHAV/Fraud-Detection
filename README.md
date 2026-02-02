@@ -92,16 +92,19 @@ Random Forest feature importance was used to identify key fraud indicators such 
 
 ---
 
-##🚀 Streamlit Deployment
-##📌 Objective
+## 🚀 Streamlit Deployment
 
--Deploy the trained fraud detection model as an interactive web application using Streamlit.
+### 📌 Objective
+Deploy the trained fraud detection machine learning model as an **interactive web application** using **Streamlit** for real-time fraud prediction.
 
+---
 
-##🧱 Application Features
+### 🧱 Application Features
+- User-friendly input form for transaction details  
+- Real-time fraud prediction using the trained model  
+- Displays:
+  - Fraud / Non-Fraud result  
+  - Fraud probability score  
+- Lightweight and easy-to-use interface
 
--User-friendly input form
--Real-time fraud prediction
--Displays:
-   -Fraud / Non-Fraud result
-   -Prediction confidence
+---
