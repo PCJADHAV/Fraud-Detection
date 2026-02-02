@@ -47,7 +47,7 @@ These insights helped guide feature engineering and model selection.
 Created a new feature to capture suspicious behavior:
 
 ### ➕ Balance Difference
-```python
+python
 balance_diff = oldbalanceOrg - newbalanceOrig
 
 
